@@ -4,12 +4,11 @@ Computer Science Essentials - Pablo Silva | Segerstrom High School
 
 This repository encompasses most of the work done in text-based programming throughout the Computer Science Essentials course.
 Most (if not all) of the text-based programming was conducted in VexcodeV5 or Trinklet.
-
 Note: Unit 1 will be omitted from the Table of Contents as it is purely block-based code.
 
-Table of Contents:
 Unit 2: Computing and Society: Transitions to Text
-  Lesson 2.1: Transitions to Text-based Coding
+
+Lesson 2.1: Transitions to Text-based Coding
   - Activity 2.1.1: Transitioning from Block to Text
   - Activity 2.1.2: Coding Fundamentals: Dead Reckoning
   - Activity 2.1.3: Lists
