@@ -5,7 +5,7 @@
 **GAME CONTROLS:**
 - W/UP ARROW - Move UP
 - A/LEFT ARROW - Move LEFT
-- S/DOWN ARROW - Move DOWNzz
+- S/DOWN ARROW - Move DOWN
 - D/RIGHT ARROW - Move RIGHT
 - O/LEFT CLICK - Shoot
 - E - Dash
