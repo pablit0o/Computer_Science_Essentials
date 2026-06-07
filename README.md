@@ -2,10 +2,10 @@
 - Authors: Pablo Silva, Tyler Nguyen, William Obertone
 - Description: Final project for CSP
 
-- GAME CONTROLS:
+**GAME CONTROLS:**
 - W/UP ARROW - Move UP
 - A/LEFT ARROW - Move LEFT
-- S/DOWN ARROW - Move DOWN
+- S/DOWN ARROW - Move DOWNzz
 - D/RIGHT ARROW - Move RIGHT
 - O/LEFT CLICK - Shoot
 - E - Dash
